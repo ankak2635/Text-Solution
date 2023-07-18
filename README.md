@@ -2,6 +2,8 @@ Welcome to Text Solution!
 
 A streamlit application built in Python to summarize, analyze sentiment and compare the semantic similarity of texts.
 
+🔗 Check out the application [here.](https://text-solution-2635.streamlit.app/) 
+
 The application has three features:
   1. Summarizes the given text.
   2. Analyze the sentiment of the given text (shows how positive, neutral or negative the sentence is).
