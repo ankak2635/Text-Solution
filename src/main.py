@@ -1,7 +1,7 @@
 import sys
 from src.exception import CustomException
 from src.logger import logging
-import APIconfig
+# import APIconfig uncomment for local run
 
 import pandas as pd
 import numpy as np
