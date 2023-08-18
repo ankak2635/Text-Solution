@@ -12,7 +12,7 @@ Text Solution offers three distinct features:
 
 2. **Sentiment Analysis**: Assesses sentiment in given texts, displaying the degree of positivity, neutrality, or negativity. This functionality is supported by the [Twitter Roberta Base Sentiment Latest model](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) via the Inference API.
 
-3. **Text Similarity Comparison**: Measures semantic similarity between two input texts, whether they are sentences or paragraphs. This comparison is facilitated by the All mpnet Base v2 model, producing a similarity score based on cosine similarity.
+3. **Text Similarity Comparison**: Measures semantic similarity between two input texts, whether they are sentences or paragraphs. This comparison is facilitated by the [all- mpnet-base-v2](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) model, producing a similarity score based on cosine similarity.
 
 ## Leveraging Hugging Face NLP Models
 
